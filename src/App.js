@@ -7,12 +7,12 @@ function App() {
      <hr></hr>
      <div className="container bg-light border">
      <h2 className="text-center">Defina suas tarefas</h2>
-     <div className="row m-3 container-fluid d-flex justify-content-center align-center">
+     <div className="row m-3 container d-flex justify-content-center align-center">
       <div className="col-3 d-flex justify-content-center align-center">
       <input type="text" className="form-control" placeholder="Digite sua tarefa"></input>
       </div>
       </div>
-      <div className="row container-fluid d-flex justify-content-center align-center">
+      <div className="row container d-flex justify-content-center align-center">
       <div className="col-3  d-flex justify-content-center align-center">
       <button className="btn btn-primary align-center">Adicionar</button>
       </div>
